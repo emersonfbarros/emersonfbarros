@@ -1,11 +1,11 @@
-<img src="images/svg/header_pt.svg"></img>
+<img src="images/svg/header_en"></img>
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
-### :space_invader: &nbsp;Sobre mim
+### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying and looking for my first job as a Jr.\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for the web, innovation and free and open source software.\
