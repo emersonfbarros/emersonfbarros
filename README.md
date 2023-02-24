@@ -7,7 +7,7 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying and looking for my first job as a Jr.\
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying and looking for my first job as a Jr. Developer.\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for the web, innovation and free and open source software.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about problem solving, programming language independent, and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Studying full stack web development at [Trybe](https://www.betrybe.com/).\
