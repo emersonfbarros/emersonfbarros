@@ -7,25 +7,25 @@
 
 ### :space_invader: &nbsp;Sobre mim
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying and looking for my first job as a Jr.\
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for the web, innovation and free and open source software.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about problem solving, programming language independent, and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Studying full stack web development at [Trybe](https://www.betrybe.com/).\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Linux-based OS user for 2 years, hence the passion for technology and problem solving.\
-&nbsp;&nbsp;&nbsp;:book: &nbsp;Currently reading Computer Networking: A Top-Down Approach.\
-&nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Brazil with my dog called Mini :service_dog:.
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Atualmente estudando e buscando pela minha primeira vaga como desenvolvedor Jr.\
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Amor por web, inovação e software livre e de código aberto.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apaixonado por solução de problemas, independente de linguagem de programação, e automação de rotinas diárias.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Estudando desenvolvimento web full stack na [Trybe](https://www.betrybe.com/).\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Usuário de OS baseados em Linux a 2 anos, daí veio a paixão por tecnolgia e resolução de problemas.\
+&nbsp;&nbsp;&nbsp;:book: &nbsp;Atualmente lendo: Redes de Computadores e a Internet: Uma Abordagem Top-Down.\
+&nbsp;&nbsp;&nbsp;:house: &nbsp;Morando no Brasil com minha cadela Mini :service_dog:.
 
 <p align="center">
   <a href="mailto:emersonfb99@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/emersonfbarros/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/emersonfbarros/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/emersonfbarros"><img src="https://img.shields.io/github/followers/emersonfbarros?label=follow&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/emersonfbarros"><img src="https://img.shields.io/github/followers/emersonfbarros?label=siga&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr/>
 
 <details>
-  <summary><b>:computer: &nbsp;Main technological domain, so far</b></summary>
+  <summary><b>:computer: &nbsp;Principal domínio tecnológico, até o momento</b></summary>
   <br/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
@@ -45,7 +45,7 @@
 <!-- </details> -->
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+  <summary><b>:gear: &nbsp;Estatisticas do GitHub</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=emersonfbarros&hide_border=true&theme=nightowl" />
