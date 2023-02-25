@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apaixonado por solução de problemas, independente de linguagem de programação, e automação de rotinas diárias.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Estudando desenvolvimento web full stack na [Trybe](https://www.betrybe.com/).\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Usuário de OS baseados em Linux a 2 anos, daí veio a paixão por tecnolgia e resolução de problemas.\
-&nbsp;&nbsp;&nbsp;:book: &nbsp;Atualmente lendo: Redes de Computadores e a Internet: Uma Abordagem Top-Down.\
+&nbsp;&nbsp;&nbsp;:book: &nbsp;Atualmente lendo *Redes de Computadores e a Internet: Uma Abordagem Top-Down*.\
 &nbsp;&nbsp;&nbsp;:house: &nbsp;Morando no Brasil com minha cadela Mini :service_dog:.
 
 <p align="center">
