@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate about problem solving, programming language independent, and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Studying full stack web development at [Trybe](https://www.betrybe.com/).\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Linux-based OS user for 2 years, hence the passion for technology and problem solving.\
-&nbsp;&nbsp;&nbsp;:book: &nbsp;Currently reading Computer Networking: A Top-Down Approach.\
+&nbsp;&nbsp;&nbsp;:book: &nbsp;Currently reading *Computer Networking: A Top-Down Approach*.\
 &nbsp;&nbsp;&nbsp;:house: &nbsp;Living in Brazil with my dog called Mini :service_dog:.
 
 <p align="center">
