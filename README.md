@@ -23,9 +23,11 @@
 
 <hr/>
 
-<details>
-  <summary><b>:computer: &nbsp;Main technological domain, so far</b></summary>
-  <br/>
+<!-- <details> -->
+<!--   <summary><b>:computer: &nbsp;Main technological domain, so far</b></summary> -->
+<!--   <br/> -->
+
+### :computer: &nbsp;Main technological domain, so far
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
@@ -48,10 +50,11 @@
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143.svg?&style=flat&logo=neovim&logoColor=white)&nbsp;
+![ShellScript](https://img.shields.io/badge/Shell%20Script-4EAA25.svg?&style=flat&logo=gnu-bash&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 
-</details>
+<!-- </details> -->
 
 <!-- <details> -->
 <!--   <summary><b>:brain: &nbsp;Outras conhecimentos, sempre aprendendo</b></summary> -->
