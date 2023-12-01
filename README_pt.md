@@ -27,7 +27,7 @@
 <!--   <summary><b>:computer: &nbsp;Principal domínio tecnológico, até o momento</b></summary> -->
 <!--   <br/> -->
 
-### :computer: &nbsp;Main technological domain, so far
+### :computer: &nbsp;Principal domínio tecnológico, até o momento 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/Express-000000.svg?&style=flat&logo=express&logoColor=white)&nbsp;
