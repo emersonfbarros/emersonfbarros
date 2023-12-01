@@ -27,13 +27,29 @@
   <summary><b>:computer: &nbsp;Principal domínio tecnológico, até o momento</b></summary>
   <br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/Express-000000.svg?&style=flat&logo=express&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)&nbsp;
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7.svg?&style=flat&logo=sequelize&logoColor=white)&nbsp;
+![Json web tokens](https://img.shields.io/badge/JSON%20Web%20Tokens-000000.svg?&style=flat&logo=jsonwebtokens&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
+![Docker compose](https://img.shields.io/badge/Docker%20Compose-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
+![Mocha](https://img.shields.io/badge/Mocha-8D6748.svg?&style=flat&logo=mocha&logoColor=white)&nbsp;
+![Chai](https://img.shields.io/badge/Chai-A30701.svg?&style=flat&logo=chai&logoColor=white)&nbsp;
+![Sinon](https://img.shields.io/badge/Sinon-995F44.svg?&style=flat&logo=sinon&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-C21325.svg?&style=flat&logo=jest&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=react&logoColor=white)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=flat&logo=redux&logoColor=white)&nbsp;
+![Vite](https://img.shields.io/badge/Vite-646CFF.svg?&style=flat&logo=vite&logoColor=white)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC.svg?&style=flat&logo=tailwind-css&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
+![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
+![NeoVim](https://img.shields.io/badge/NeoVim-57A143.svg?&style=flat&logo=neovim&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 
 </details>
 
